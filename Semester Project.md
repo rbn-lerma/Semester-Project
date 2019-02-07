@@ -14,6 +14,6 @@ Objective: To write a Python script that automates the comparison of data sets f
 Outcomes: A sorted list of values in a .csv file that identifies candidate lipid binding ligands for our protein of interest. The data would be sorted based on intensity and the statistical likelihood. It would show which lipids overlap between sets and whether the intensity value is sufficiently high to be considered relevant. This script would lead to easy and automatic interpertation of LC/MS data. 
 
 Sketch:
-        ![alt text](Semester-Project/semester project sketch.jpg)
+        ![Project Sketch](https://github.com/rbn-lerma/Semester-Project/blob/master/semester%20project%20sketch.jpg)
 
 References: 1. K. Schrick, D. Nguyen, W. M. Karlowki, K. FX. Mayer. (2004). START lipid/sterol-binding domains are amplified in plants and are predominantly associated with homeodomain transcription factors. Genome Biology **5(6): R41**
